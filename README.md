@@ -1,4 +1,4 @@
-# Combined-BetterBow-Bow++-Autododge
+# [Combined-BetterBow-Bow++-Autododge](https://www.nexusmods.com/monsterhunterwilds/mods/4247)
 
 A merged bow overhaul for Monster Hunter Wilds that combines the best features of [Better Bow](https://www.nexusmods.com/monsterhunterwilds/mods/539) and [Bow Plus Plus](https://www.nexusmods.com/monsterhunterwilds/mods/1905) into a single, conflict-free mod. Includes an integrated [AutoDodge](https://www.nexusmods.com/monsterhunterwilds/mods/32) wrapper with persistent English configuration.
 

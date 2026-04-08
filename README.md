@@ -4,9 +4,8 @@ A collection of merged, conflict-free weapon overhauls for Monster Hunter Wilds.
 
 ---
 
-## Bow — Combined-BetterBow-Bow++-Autododge
+## [Bow — Combined-BetterBow-Bow++-Autododge](https://www.nexusmods.com/monsterhunterwilds/mods/4247)
 
-[Nexus Page](https://www.nexusmods.com/monsterhunterwilds/mods/4247)
 
 <img width="4847" height="3823" alt="Bow_1" src="https://github.com/user-attachments/assets/fe2c49a9-48c2-4d73-9f21-ff9b35ad0142" />
 
@@ -89,7 +88,7 @@ All nested object data is preserved from Better Bow 10x, which means multi-locko
 
 ---
 
-## HBG — Combined-HBG-Enhanced
+## [HBG — Combined-HBG-Enhanced](https://www.nexusmods.com/monsterhunterwilds/mods/4251)
 
 <img width="2560" height="1440" alt="Cover" src="https://github.com/user-attachments/assets/355a10cd-3b9e-4f92-a3e9-4e3caeb7d009" />
 
